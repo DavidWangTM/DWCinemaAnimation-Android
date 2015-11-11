@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DWCinemaAnimation</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_0">Buy Now</string>
+    <string name="title_1">Done</string>
+    <string name="title_2">$29.9</string>
+    <string name="content">Many years ago, the planet Cybertron was consumed by a civil war by the two Transformer factions, the Autobots led by Optimus Prime, and the Decepticons led by Megatron. Optimus jettisoned the AllSpark, a mystical artefact that brings life to the planet, into space, but Megatron pursued it. Megatron crashed in the Arctic Circle and froze, discovered in 1897 by explorer Archibald Witwicky. Witwicky activated Megatron’s navigational system, which scanned the AllSpark’s coordinates into his glasses. The glasses end up in the possession of his great-great-grandson Sam Witwicky. In the present day, Sam buys his first car, a rusting Chevrolet Camaro, but discovers it has a life of its own.</string>
+</resources>
