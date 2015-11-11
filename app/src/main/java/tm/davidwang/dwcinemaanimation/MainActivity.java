@@ -80,8 +80,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 ObjectAnimator.ofFloat(back_btn, "alpha", 0.0f, 1.0f),
                 ObjectAnimator.ofFloat(show_layout, "translationY", 0, dip2px(235)),
                 ObjectAnimator.ofFloat(show_layout, "translationX", 0, dip2px(90)),
+                ObjectAnimator.ofFloat(show_content, "translationX", 0, dip2px(90)),
                 ObjectAnimator.ofFloat(title_text_1, "translationX", 0, dip2px(90)),
-                ObjectAnimator.ofFloat(title_text_0, "translationX", 0, dip2px(90)),
+                ObjectAnimator.ofFloat(title_text_0, "translationX", 0, dip2px(70)),
                 ObjectAnimator.ofFloat(show_re_bg, "scaleX", 1, 0.5f)
         );
         set.setDuration(duration).start();
@@ -101,8 +102,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 ObjectAnimator.ofFloat(back_btn, "alpha", 1.0f, 0.0f),
                 ObjectAnimator.ofFloat(show_layout, "translationY", dip2px(235),0),
                 ObjectAnimator.ofFloat(show_layout, "translationX", dip2px(90),0),
+                ObjectAnimator.ofFloat(show_content, "translationX", dip2px(90),0),
                 ObjectAnimator.ofFloat(title_text_1, "translationX",dip2px(90),0),
-                ObjectAnimator.ofFloat(title_text_0, "translationX",dip2px(90),0),
+                ObjectAnimator.ofFloat(title_text_0, "translationX",dip2px(70),0),
                 ObjectAnimator.ofFloat(show_re_bg, "scaleX", 0.5f,1)
 
         );
