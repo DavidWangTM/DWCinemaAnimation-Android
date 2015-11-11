@@ -7,7 +7,6 @@
     >
 
     <RelativeLayout
-        android:id="@+id/show_re"
         android:layout_width="334dp"
         android:layout_height="514dp"
         android:layout_centerInParent="true"
@@ -41,9 +40,18 @@
             android:id="@+id/show_layout">
 
                 <RelativeLayout
+                    android:id="@+id/show_re"
                     android:layout_width="fill_parent"
                     android:layout_height="60dp"
-                    android:background="#4B9CF0">
+                   >
+
+                    <View
+                        android:id="@+id/show_re_bg"
+                        android:layout_width="fill_parent"
+                        android:layout_height="fill_parent"
+                        android:background="#4B9CF0"
+                        />
+
 
                         <TextView
                             android:id="@+id/title_text_0"
