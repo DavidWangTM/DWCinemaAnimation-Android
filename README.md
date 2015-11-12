@@ -5,7 +5,7 @@ Android上电影购票的动效实现。微博上看到@壹了人拾做的设计
 
 ## Preview
 
-![image](https://raw.githubusercontent.com/SergioChan/SCCinemaAnimation/master/Image/preview.png)
+![image](https://raw.githubusercontent.com/DavidWangTM/DWCinemaAnimation-Android/master/preview.png)
 
 ![image](https://raw.githubusercontent.com/DavidWangTM/DWCinemaAnimation-Android/master/animation.gif)
 
@@ -23,8 +23,6 @@ The design was originated from [Xer.Lee](https://dribbble.com/xerlee)'s work on 
 1.0
 
 ## Environment
-
-iOS 8.0 以上 iPhone 5s/iPhone6/iPhone6 Plus 测试通过 iOS 8.0 Above iPhone 5s/6/6 Plus Tested
 Android 2.3以上 屏幕分辨率 > w:325.h:514 测试通过
 
 ## Usage
