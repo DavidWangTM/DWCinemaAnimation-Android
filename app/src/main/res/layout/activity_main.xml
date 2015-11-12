@@ -26,7 +26,7 @@
                 android:layout_marginLeft="15dp"
                 android:layout_marginRight="15dp"
                 android:background="#4B9CF0"
-                android:alpha="0"
+                android:visibility="gone"
                 />
 
         <LinearLayout
@@ -111,6 +111,23 @@
                 android:layout_marginLeft="30dp"
                 android:alpha="0"
                 android:layout_marginBottom="30dp"/>
+
+
+        <GridView
+            android:id="@+id/gridview"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_marginTop="110dp"
+            android:layout_marginBottom="90dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginRight="15dp"
+            android:numColumns="10"
+            android:verticalSpacing="7dp"
+            android:horizontalSpacing="7dp"
+            android:background="@null"
+            android:alpha="0"
+            android:visibility="gone"
+            />
 
 
         </RelativeLayout>
