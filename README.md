@@ -1,6 +1,6 @@
 # DWCinemaAnimation-Android
 
-> *此项目IOS地址:[SergioChan](https://github.com/SergioChan)设置的：[SCCinemaAnimation](https://github.com/SergioChan/SCCinemaAnimation)*
+> *此项目仿IOS地址:[SergioChan](https://github.com/SergioChan)创意的：[SCCinemaAnimation](https://github.com/SergioChan/SCCinemaAnimation)*
 
 An Android native implementation of a Cinema Animation Application. See more at https://dribbble.com/shots/2339238-Animation-for-Cinema-Application.
 
