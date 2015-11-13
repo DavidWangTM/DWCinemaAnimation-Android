@@ -124,14 +124,14 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 ObjectAnimator.ofFloat(show_content, "alpha", 1.0f, 0.0f),
                 ObjectAnimator.ofFloat(back_btn, "alpha", 0.0f, 1.0f),
                 ObjectAnimator.ofFloat(show_layout, "translationY", 0, dip2px(235)),
-                ObjectAnimator.ofFloat(show_layout, "translationX", 0, dip2px(90)),
-                ObjectAnimator.ofFloat(show_content, "translationX", 0, dip2px(65)),
+                ObjectAnimator.ofFloat(show_layout, "translationX", 0, dip2px(45)),
+                ObjectAnimator.ofFloat(show_content, "translationX", 0, dip2px(45)),
                 ObjectAnimator.ofFloat(title_text_1, "translationX", 0, dip2px(90)),
-                ObjectAnimator.ofFloat(title_text_0, "translationX", 0, dip2px(70)),
+                ObjectAnimator.ofFloat(title_text_0, "translationX", 0, dip2px(45)),
                 ObjectAnimator.ofFloat(gridview, "scaleX", 1.3f, 1),
                 ObjectAnimator.ofFloat(gridview, "scaleY", 1.3f, 1),
                 ObjectAnimator.ofFloat(gridview, "alpha", 0.0f, 1.0f),
-                ObjectAnimator.ofFloat(show_re_bg, "scaleX", 1, 0.5f)
+                ObjectAnimator.ofFloat(show_re_bg, "scaleX", 1, 0.65f)
         );
         set.addListener(new Animator.AnimatorListener() {
             @Override
@@ -169,15 +169,14 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 ObjectAnimator.ofFloat(show_content, "alpha", 0.0f, 1.0f),
                 ObjectAnimator.ofFloat(back_btn, "alpha", 1.0f, 0.0f),
                 ObjectAnimator.ofFloat(show_layout, "translationY", dip2px(235),0),
-                ObjectAnimator.ofFloat(show_layout, "translationX", dip2px(90),0),
-                ObjectAnimator.ofFloat(show_content, "translationX", dip2px(70),0),
+                ObjectAnimator.ofFloat(show_layout, "translationX", dip2px(45),0),
+                ObjectAnimator.ofFloat(show_content, "translationX", dip2px(45),0),
                 ObjectAnimator.ofFloat(title_text_1, "translationX",dip2px(90),0),
-                ObjectAnimator.ofFloat(title_text_0, "translationX",dip2px(70),0),
+                ObjectAnimator.ofFloat(title_text_0, "translationX",dip2px(45),0),
                 ObjectAnimator.ofFloat(gridview, "scaleX", 1,1.3f),
                 ObjectAnimator.ofFloat(gridview, "scaleY",1, 1.3f),
                 ObjectAnimator.ofFloat(gridview, "alpha", 1.0f,0),
-                ObjectAnimator.ofFloat(show_re_bg, "scaleX", 0.5f,1)
-
+                ObjectAnimator.ofFloat(show_re_bg, "scaleX", 0.65f,1)
         );
         set.setDuration(duration).start();
         set.addListener(new Animator.AnimatorListener() {
