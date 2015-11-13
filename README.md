@@ -1,7 +1,7 @@
 # DWCinemaAnimation-Android
 此项目IOS地址:[SergioChan](https://github.com/SergioChan)设置的：[SCCinemaAnimation](https://github.com/SergioChan/SCCinemaAnimation)*
 
-An iOS native implementation of a Cinema Animation Application. See more at https://dribbble.com/shots/2339238-Animation-for-Cinema-Application.
+An Android native implementation of a Cinema Animation Application. See more at https://dribbble.com/shots/2339238-Animation-for-Cinema-Application.
 
 Android上电影购票的动效实现。微博上看到@壹了人拾做的设计，实现了一个demo。
 
@@ -34,5 +34,6 @@ The initialization is very simple. Just like the sample below:
 ```Objective-C
 //加入compile.
 compile 'com.nineoldandroids:library:2.4.0' 
-//调用 showview和hideview。
+//调用 
+showview and hideview。
 ```
