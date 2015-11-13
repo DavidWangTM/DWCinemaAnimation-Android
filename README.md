@@ -1,4 +1,6 @@
 # DWCinemaAnimation-Android
+此项目IOS地址:[SergioChan](https://github.com/SergioChan)设置的：[SCCinemaAnimation](https://github.com/SergioChan/SCCinemaAnimation)*
+
 An iOS native implementation of a Cinema Animation Application. See more at https://dribbble.com/shots/2339238-Animation-for-Cinema-Application.
 
 Android上电影购票的动效实现。微博上看到@壹了人拾做的设计，实现了一个demo。
