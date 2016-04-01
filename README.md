@@ -7,11 +7,6 @@ An Android native implementation of a Cinema Animation Application. See more at 
 Android上电影购票的动效实现。微博上看到@壹了人拾做的设计，实现了一个demo。
 
 ## Preview
-
-![image](https://raw.githubusercontent.com/DavidWangTM/DWCinemaAnimation-Android/master/preview.png)
-
-![image](https://raw.githubusercontent.com/DavidWangTM/DWCinemaAnimation-Android/master/animation.gif)
-
 ![demo](previewshow.png)
 
 ![demo](animationshow.gif)
