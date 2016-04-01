@@ -9,7 +9,7 @@ Android上电影购票的动效实现。微博上看到@壹了人拾做的设计
 ## Preview
 ![demo](previewshow.png)
 
-![demo](animationshow.gif)
+![demo](animationwhy.gif)
 
 ## Intro
 
