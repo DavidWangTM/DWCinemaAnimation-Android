@@ -12,6 +12,10 @@ Android上电影购票的动效实现。微博上看到@壹了人拾做的设计
 
 ![image](https://raw.githubusercontent.com/DavidWangTM/DWCinemaAnimation-Android/master/animation.gif)
 
+![demo](previewshow.png)
+
+![demo](animationshow.gif)
+
 ## Intro
 
 设计创意和动效全部来自于[Xer.Lee](https://dribbble.com/xerlee)在Dribbble上的作品：[https://dribbble.com/shots/2339238-Animation-for-Cinema-Application](https://dribbble.com/shots/2339238-Animation-for-Cinema-Application)。这是一个在Android上原生实现的相似交互的开源库，没有百分百和设计原稿一致。
